@@ -1,6 +1,8 @@
 # Algorithm
 
 - [Algorithhms 4th Edition by Robert Sedgewick, Kevin Wayne](./Algorithhms%204th%20Edition%20by%20Robert%20Sedgewick,%20Kevin%20Wayne.pdf) \| 	[download(10.10M)](https://github.com/EvanLi/programming-book/raw/master/Algorithm/Algorithhms%204th%20Edition%20by%20Robert%20Sedgewick,%20Kevin%20Wayne.pdf)
+- [剑指Offer 名企面试官精讲典型编程题 第二版](./剑指Offer%20名企面试官精讲典型编程题%20第二版.pdf) \| 	[download(60.80M)](https://github.com/EvanLi/programming-book/raw/master/Algorithm/剑指Offer%20名企面试官精讲典型编程题%20第二版.pdf)
+- [剑指Offer 名企面试官精讲典型编程题](./剑指Offer%20名企面试官精讲典型编程题.pdf) \| 	[download(21.52M)](https://github.com/EvanLi/programming-book/raw/master/Algorithm/剑指Offer%20名企面试官精讲典型编程题.pdf)
 - [大话数据结构](./大话数据结构.pdf) \| 	[download(48.34M)](https://github.com/EvanLi/programming-book/raw/master/Algorithm/大话数据结构.pdf)
 - [常见排序算法-看云文档小组](./常见排序算法-看云文档小组.pdf) \| 	[download(1.71M)](https://github.com/EvanLi/programming-book/raw/master/Algorithm/常见排序算法-看云文档小组.pdf)
 - [挑战程序设计竞赛(第2版)](./挑战程序设计竞赛%28第2版%29.pdf) \| 	[download(28.96M)](https://github.com/EvanLi/programming-book/raw/master/Algorithm/挑战程序设计竞赛%28第2版%29.pdf)
